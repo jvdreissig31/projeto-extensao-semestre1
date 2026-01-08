@@ -16,7 +16,7 @@ Site criado através do projeto de extensão da faculdade para um prestador de s
 
 ## Tecnologias Utilizadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
-* Linguagem: [JavaScript]
+* Linguagem: JavaScript
 * Estilização: CSS3
 * Editor de Código: Visual Studio Code
 

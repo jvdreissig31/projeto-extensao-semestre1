@@ -4,7 +4,6 @@ Site criado através do projeto de extensão da faculdade para um prestador de s
 -----------
 
 ## Demonstração
-Aqui você pode colocar o link para o site no ar ou um vídeo/GIF:
 🔗 [Acesse o projeto aqui]([https://link-do-seu-deploy.com](https://cledio-s.github.io/transporte-guincho/))
 
 -----------

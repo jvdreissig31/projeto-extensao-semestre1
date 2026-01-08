@@ -22,7 +22,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
  ----------
 
- ## Como Rodar?dd
+ ## Como Rodar?
 Este é um projeto front-end simples, então não há necessidade de instalar dependências.
 
 1. **Clone o repositório**

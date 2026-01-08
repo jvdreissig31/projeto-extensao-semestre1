@@ -25,9 +25,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
  ## Como Rodar?
 Este é um projeto front-end simples, então não há necessidade de instalar dependências.
 
-1. **Clone o repositório**
+1. Clone o repositório
 ```bash
 git clone [https://github.com/jvdreissig31/projeto-extensao-semestre1.git](https://github.com/jvdreissig31/projeto-extensao-semestre1.git)
 ```
-2. **Acesse a pasta**
+2. Acesse a pasta
 cd ProjetoGuincho
